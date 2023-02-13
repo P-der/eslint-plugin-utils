@@ -1,6 +1,6 @@
 {
   "name": "@p-der/eslint-plugin-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "eslint plugin for utils",
   "keywords": [
     "eslint",
